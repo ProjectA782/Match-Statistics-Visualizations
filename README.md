@@ -36,5 +36,5 @@ Run the script. It will automatically load the dataset, perform the analysis, an
 Interpret the results
 
 Acknowledgments
-The dataset used in this project was obtained from https://data.world/cervus/uefa-euro-2020.
+The dataset used in this project was obtained from data.world/cervus/uefa-euro-2020.
 The R packages ggplot2, dplyr, readr, and tidyr were essential for data visualization and manipulation.
