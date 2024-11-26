@@ -3,7 +3,7 @@ The R script provides visualizations of match statistics from Match Statistics d
 
 Files Included
 analysis_script.R: The R script used to load, analyze, and visualize the dataset. The script includes data cleaning, transformation, and plotting procedures.
-Match player statistics.csv: The dataset used for the analysis. This file contains the raw data that is processed by the R script. You need to visit https://data.world/cervus/uefa-euro-2020 
+Match player statistics.csv: The dataset used for the analysis. This file contains the raw data that is processed by the R script. You need to visit data.world/cervus/uefa-euro-2020 
 and download the Match player statistics.csv file from the website.
 
 Prerequisites
@@ -27,7 +27,7 @@ Usage
 Download the files:
 
 Download the R file named mps.R from this repository to your local machine.
-Download Match player statistics.csv statistics from https://data.world/cervus/uefa-euro-2020
+Download Match player statistics.csv statistics from data.world/cervus/uefa-euro-2020
 Save the two files in the same directory
 
 Run the script:
